@@ -4,7 +4,7 @@ workflows:
   workflow:
     jobs:
       - build:
-          context: examples
+          context: soluble-example-org
 
 jobs:
   build:
