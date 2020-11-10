@@ -1,5 +1,10 @@
 version: 2.1
 
+workflows:
+  workflow:
+    jobs:
+      - build:
+          context: soluble-example-org
 
 jobs:
   build:
