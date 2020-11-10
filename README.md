@@ -1,6 +1,6 @@
 # example-image-scan
 
-[![Soluble-OSS](https://circleci.com/gh/soluble-oss/example-image-scan/tree/main.svg?style=svg)](https://circleci.com/gh/soluble-oss/example-image-scan)
+[![Soluble-OSS](https://circleci.com/gh/soluble-example/example-image-scan/tree/main.svg?style=svg)](https://circleci.com/gh/soluble-example/example-image-scan)
 
 This simple example demonstrates:
 
